@@ -41,8 +41,3 @@ Follow the on-screen prompt:
 
 - Type exit or quit to stop the program.
 
-2. Type: WatchEvent
-   Repo: facebook/react
-   URL:  [https://github.com/facebook/react](https://github.com/facebook/react)
---------------------
-==============================
