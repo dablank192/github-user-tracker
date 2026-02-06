@@ -1,5 +1,7 @@
 # github-user-tracker
 
+project's url: https://roadmap.sh/projects/github-user-activity
+
 A simple and interactive Command Line Interface (CLI) tool built with Python to fetch and display recent activities of any GitHub user.
 
 ## 🚀 Features
