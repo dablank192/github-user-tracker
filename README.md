@@ -21,8 +21,8 @@ Before running this project, ensure you have the following installed:
 
 1. **Clone the repository** (or download the source code):
    ```bash
-   git clone <your-repo-link>
-   cd <your-project-folder>
+   git clone https://github.com/dablank192/github-user-tracker.git
+   cd github-user-tracker
 
 2. **Set up virtual environment:**
    python -m venv venv
